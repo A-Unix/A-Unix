@@ -8,4 +8,4 @@
 <img src="https://github.com/TermuxHackz/termuxhackz/blob/master/hacker_uGThpFPb.gif"/>
 
 ## 2023 Stats
-<img align="center" alt="Watch-Stats" src="https://github.com/Atuls-git/Atuls-git/assets/54507991/24836931-9e26-4161-95fa-27b03f33cee4" />
+<img align="center" width="963" height="550" alt="Watch-Stats" src="https://github.com/Atuls-git/Atuls-git/assets/54507991/24836931-9e26-4161-95fa-27b03f33cee4" />
