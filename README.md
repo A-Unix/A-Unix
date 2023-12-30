@@ -9,5 +9,5 @@
 
 ## 2023 Stats
 
-<img src="logo.png"/><a href="https://www.youtube.com/watch?v=ZSOVgFIzKmuS4dhw&list=PL5RyQeITAvn-4YFirjYqRWFAa4pENxIhh"/>
+
 
