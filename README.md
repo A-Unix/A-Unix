@@ -9,7 +9,5 @@
 
 ## 2023 Stats
 
-## Tutorial Video
-
-[Play Video](logo.png)](https://www.youtube.com/watch?v=ZSOVgFIzKmuS4dhw&list=PL5RyQeITAvn-4YFirjYqRWFAa4pENxIhh)
+<img src="logo.png"/>(https://www.youtube.com/watch?v=ZSOVgFIzKmuS4dhw&list=PL5RyQeITAvn-4YFirjYqRWFAa4pENxIhh)
 
