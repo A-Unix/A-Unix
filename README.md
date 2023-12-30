@@ -12,7 +12,4 @@
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/Author-Atul-blue" href="https://github.com/Atuls-git" target="_blank" /><br>
 <img align="center" src="https://img.shields.io/badge/Repo-Atuls--git-green" href="https://github.com/Atuls-git?tab=repositories" target="_blank" /><br>
-<img align="center" src="https://img.shields.io/badge/Connect_on-LinkeDin-cyan" href="https://www.linkedin.com/in/atul-sharma-7b5259181/" target="_blank" /><br>
-<img align="center" src="https://img.shields.io/badge/Connect_on-Facebook-blue" href="https://www.facebook.com/as46176" target="_blank" /><br>
-<img align="center" src="https://img.shields.io/badge/Connect_on-Instagram-magenta" href="https://www.instagram.com/atul_s3" target="_blank" /><br>
-<img align="center" src="https://img.shields.io/badge/Connect_on-WhatsApp(No Spamming)-green" href="https://wa.me/+8894287590?text=Hi+Atul,+nice+to+meet+you+my+name+is+ , I got your no. from GitHub" target="_blank" /><br>
+</p>
