@@ -5,7 +5,7 @@
 - 💠 I love programming a lot in Python and Shell, and I'm looking forward to making other scripts with you. Going to be a great expert experience for me to work with you.<br>
 
 <p align="center">
-<img align="center" src="https://img.shields.io/badge/Author-Atul-blue" href="https://github.com/Atuls-git" target="_blank" /><br>
+<img align="center" src="https://img.shields.io/badge/Author-Atul-blue"(href="https://github.com/Atuls-git" target="_blank") /><br>
 <img align="center" src="https://img.shields.io/badge/GitHub_Repo-Atuls--git-green" href="https://github.com/Atuls-git?tab=repositories" target="_blank" /><br>
 </p>
 
