@@ -5,8 +5,12 @@
 - 💠 I love programming a lot in Python and Shell, and I'm looking forward to making other scripts with you. Going to be a great expert experience for me to work with you.<br>
 
 <p align="center">
-[![Author](https://img.shields.io/badge/Author-Atul-blue)](https://github.com/Atuls-git)
-<img align="center" src="https://img.shields.io/badge/GitHub_Repo-Atuls--git-green" href="https://github.com/Atuls-git?tab=repositories" target="_blank" /><br>
+  <a href="https://github.com/Atuls-git">
+    <img src="https://img.shields.io/badge/Author-Atul-blue" alt="Author">
+  </a>
+  <a href="https://github.com/Atuls-git?tab=repositories">
+    <img align="center" src="https://img.shields.io/badge/GitHub_Repo-Atuls--git-green" alt="GitHub Repo">
+  </a>
 </p>
 
 ## 2023 Stats
