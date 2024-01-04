@@ -7,11 +7,11 @@
 <p align="center">
   <a href="https://github.com/Atuls-git">
     <img src="https://img.shields.io/badge/Author-Atul-blue" alt="Author">
-  </a>
+  </a><br>
   <a href="https://github.com/Atuls-git?tab=repositories">
     <img align="center" src="https://img.shields.io/badge/GitHub_Repo-Atuls--git-green" alt="GitHub Repo">
   </a>
-</p>
+</p><br>
 
 ## 2023 Stats
 <img align="center" width="963" height="550" alt="Watch-Stats" src="https://github.com/Atuls-git/Atuls-git/assets/54507991/24836931-9e26-4161-95fa-27b03f33cee4" /><br>
