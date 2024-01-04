@@ -6,12 +6,21 @@
 
 <p align="center">
   <a href="https://github.com/Atuls-git">
-    <img src="https://img.shields.io/badge/Author-Atul-blue" alt="Author">
+    <img src="https://img.shields.io/badge/Author-Atul-cyan" alt="Author">
   </a><br>
   <a href="https://github.com/Atuls-git?tab=repositories">
     <img align="center" src="https://img.shields.io/badge/GitHub_Repo-Atuls--git-green" alt="GitHub Repo">
-  </a>
-</p><br>
+  </a><br>
+ <a href="https://www.facebook.com/as46176">
+  <img align="center" src="https://img.shields.io/badge/Facebook-Atul-blue" alt="Facebook">
+ </a><br>
+ <a href="https://www.instagram.com/atul_s3">
+  <img align="center" src="https://img.shields.io/badge/Instagram-Atul-magenta" alt="Instagram">
+ </a><br>
+ <a href="https://www.linkedin.com/in/atul-sharma-7b5259181/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-Atul_Sharma-blue" alt="LinkedIn">
+ </a>
+</p>
 
 ## 2023 Stats
 <img align="center" width="963" height="550" alt="Watch-Stats" src="https://github.com/Atuls-git/Atuls-git/assets/54507991/24836931-9e26-4161-95fa-27b03f33cee4" /><br>
