@@ -1,8 +1,9 @@
-# Hi there, Atul 🧔‍♂️ this side.
+# Hi there, Atul this side.
  
 - 🪄 I’m currently working on more projects including Python(🐍) and Shell(🐚). I'm also learning PHP(🖬) programming language.
 - ♥️ I love programming a lot in Python(🐍) and Shell(🐚), and I'm looking forward to making other scripts with you. Going to be a great expert experience for me to work with you.<br>
 
+#
 <p align="center">
   <a href="https://github.com/Atuls-git"  target="_blank">
     <img align="center" src="https://img.shields.io/badge/Author-Atul-cyan" alt="Author">
@@ -10,6 +11,10 @@
   <a href="https://github.com/Atuls-git?tab=repositories"  target="_blank">
     <img align="center" src="https://img.shields.io/badge/GitHub_Repo-Atuls--git-yellow" alt="GitHub Repo">
   </a><br>
+</p>
+
+## Social links<br>
+<p align="center">
  <a href="https://www.facebook.com/as46176"  target="_blank">
   <img align="center" src="https://img.shields.io/badge/Facebook-Atul-blue" alt="Facebook">
  </a><br>
