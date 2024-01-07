@@ -5,10 +5,10 @@
 
 #
 <p align="center">
-  <a href="https://github.com/Atuls-git"  target="_blank">
+  <a href="https://github.com/A-Unix"  target="_blank">
     <img align="center" src="https://img.shields.io/badge/Author-Atul-cyan" alt="Author">
   </a><br>
-  <a href="https://github.com/Atuls-git?tab=repositories"  target="_blank">
+  <a href="https://github.com/A-Unix?tab=repositories"  target="_blank">
     <img align="center" src="https://img.shields.io/badge/GitHub_Repo-Atuls--git-yellow" alt="GitHub Repo">
   </a><br>
 </p>
