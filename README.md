@@ -9,9 +9,12 @@
     <img align="center" src="https://img.shields.io/badge/Author-Atul-cyan" alt="Author">
   </a><br>
   <a href="https://github.com/A-Unix?tab=repositories"  target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub_Repo-Atuls--git-yellow" alt="GitHub Repo">
+    <img align="center" src="https://img.shields.io/badge/GitHub_Repo-A--Unix-yellow" alt="GitHub Repo">
   </a><br>
 </p>
+
+#
+![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Unix&show_icons=true&theme=transparent)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Unix&theme=transparent)](https://github.com/A-Unix/github-readme-stats)
 
 ## Social links<br>
 <p align="center">
