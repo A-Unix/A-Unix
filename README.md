@@ -19,17 +19,17 @@
 ## Social links<br>
 <p align="center">
  <a href="https://www.facebook.com/as46176"  target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Facebook-Atul-blue" alt="Facebook">
+  <img align="center" src="https://img.shields.io/badge/Facebook-0000FF" alt="Facebook">
  </a><br>
  <a href="https://www.instagram.com/atul_s3"  target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-Atul-magenta" alt="Instagram">
+  <img align="center" src="https://img.shields.io/badge/Instagram-FF1493" alt="Instagram">
  </a><br>
  <a href="https://wa.me/+8894287590?text=Hi+Atul,+nice+to+meet+you,+my+name+is+ , I got your no. from GitHub" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/WhatsApp-Atul-green" alt="WhatsApp">
+  <img align="center" src="https://img.shields.io/badge/WhatsApp-90EE90" alt="WhatsApp">
  </a><br>
- <a href="https://www.linkedin.com/in/atul-sharma-7b5259181/"  target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-Atul_Sharma-blue" alt="LinkedIn">
- </a>
+ <a href="https://www.linkedin.com/in/atul-sharma-7b5259181/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
 
 ## 2023 Stats
